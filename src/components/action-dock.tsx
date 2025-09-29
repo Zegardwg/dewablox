@@ -13,7 +13,7 @@ export function ActionDock() {
       <div className="glass-strong hover-gold-glow rounded-[calc(var(--radius)+4px)] border border-[rgba(var(--ring-gold),0.35)] backdrop-blur px-2 py-2 shadow-lg max-w-md w-full">
         <div className="flex items-center justify-center gap-2">
           <motion.a
-            href="https://wa.me/6281234567890"
+            href="https://wa.me/6285746142660"
             target="_blank"
             rel="noreferrer noopener"
             whileTap={{ scale: 0.97 }}
@@ -33,7 +33,7 @@ export function ActionDock() {
             aria-label="Lihat Promo & Update (buka di tab baru)"
           >
             <Megaphone className="h-4 w-4 text-[rgb(var(--ring-gold))]" aria-hidden="true" />
-            <span className="font-medium">Grub Wa</span>
+            <span className="font-medium">Grub Roblox</span>
           </motion.a>
         </div>
       </div>

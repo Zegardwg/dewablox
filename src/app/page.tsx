@@ -25,7 +25,7 @@ export default function Page() {
     },
     {
       label: "Transaksi Aman via WA dan Midman Resmi",
-      href: "https://wa.me/085746142660", // langsung chat Admin
+      href: "https://wa.me/6285746142660", // langsung chat Admin
       icon: "ShieldCheck",
       description: "Admin Dewablox & Midman Service (Tax 5%)",
     },
