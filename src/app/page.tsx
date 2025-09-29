@@ -12,22 +12,22 @@ import Image from "next/image"
 export default function Page() {
   const links: LinkItem[] = [
     {
-      label: "Galeri Komunitas",
+      label: "Instagram Dewablox.id",
       href: "https://instagram.com/dewablox.id",
       icon: "Instagram",
       description: "Showcase & Info Terbaru",
     },
     {
-      label: "Pusat Jual Beli",
-      href: "#", // TODO: ganti dengan link Grup Jual Beli Anda
+      label: "Pusat Jual Beli Roblox",
+      href: "https://chat.whatsapp.com/L0TAiLmUaSg35kAIJVhgrR?mode=ems_copy_t", // TODO: ganti dengan link Grup Jual Beli Anda
       icon: "ShoppingCart",
-      description: "Temukan Item & Akun Langka",
+      description: "Jual Beli Aman & Nyaman Roblox ",
     },
     {
-      label: "Transaksi Aman via WA",
-      href: "https://wa.me/6281234567890", // langsung chat Admin
+      label: "Transaksi Aman via WA dan Midman Resmi",
+      href: "https://wa.me/085746142660", // langsung chat Admin
       icon: "ShieldCheck",
-      description: "Admin & Midman Service (Tax 5%)",
+      description: "Admin Dewablox & Midman Service (Tax 5%)",
     },
     {
       label: "Info Harga Miring",
@@ -52,7 +52,7 @@ export default function Page() {
       <div aria-hidden="true" className="pointer-events-none absolute inset-0 -z-10">
         {/* Blurred fill layer to cover entire screen smoothly */}
         <Image
-          src="/images/bg-gaming.png"
+          src="/images/bg-gaming.jpg"
           alt=""
           fill
           priority
@@ -61,7 +61,7 @@ export default function Page() {
         />
         {/* Safe layer: keep main image content fully visible on small screens */}
         <Image
-          src="/images/bg-gaming.png"
+          src="/images/bg-gaming.jpg"
           alt=""
           fill
           priority

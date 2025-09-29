@@ -25,7 +25,7 @@ export function ActionDock() {
           </motion.a>
 
           <motion.a
-            href="#"
+            href="https://chat.whatsapp.com/L0TAiLmUaSg35kAIJVhgrR?mode=ems_copy_t"
             target="_blank"
             rel="noreferrer noopener"
             whileTap={{ scale: 0.97 }}
@@ -33,7 +33,7 @@ export function ActionDock() {
             aria-label="Lihat Promo & Update (buka di tab baru)"
           >
             <Megaphone className="h-4 w-4 text-[rgb(var(--ring-gold))]" aria-hidden="true" />
-            <span className="font-medium">Promo</span>
+            <span className="font-medium">Grub Wa</span>
           </motion.a>
         </div>
       </div>

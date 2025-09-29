@@ -14,9 +14,9 @@ const orbitron = Orbitron({
 })
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "Dewablox.id - Toko Roblox No 1 Indonesia",
+  description: "Dewablox.id adalah toko Roblox terpercaya di Indonesia yang menawarkan berbagai item dan akun Roblox dengan harga kompetitif dan layanan cepat.",
+  generator: "Next.js",
 }
 
 export default function RootLayout({

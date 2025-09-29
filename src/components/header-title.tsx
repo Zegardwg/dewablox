@@ -14,7 +14,7 @@ export function HeaderTitle() {
         aria-hidden="true"
       >
         {/* Logo placeholder, ganti ke /logo.svg bila tersedia */}
-        <Image src="/placeholder-logo.svg" alt="Logo Dewablox.id" fill sizes="56px" className="object-contain p-2" />
+        <Image src="/images/logo.png" alt="Logo Dewablox.id" fill sizes="56px" className="object-contain p-2" />
       </motion.div>
 
       <motion.h1

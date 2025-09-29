@@ -8,10 +8,10 @@ import { Gamepad2, ShieldCheck, Zap, BadgeCheck } from "lucide-react"
 type Item = { title: string; desc: string; icon: React.ComponentType<{ className?: string }> }
 
 const ITEMS: Item[] = [
-  { title: "Aman & Terpercaya", desc: "Transaksi tepercaya, garansi hingga selesai.", icon: ShieldCheck },
+  { title: "Aman & Terpercaya", desc: "100 % Full Garansi Uang Kembali.", icon: ShieldCheck },
   { title: "Proses Kilat", desc: "Eksekusi cepat—main lagi tanpa menunggu.", icon: Zap },
-  { title: "Harga Kompetitif", desc: "Nilai terbaik—hemat tanpa kompromi.", icon: BadgeCheck },
-  { title: "Nuansa Gaming", desc: "Pengalaman interaktif yang smooth.", icon: Gamepad2 },
+  { title: "Harga Miring", desc: "Nilai terbaik—hemat tanpa kompromi.", icon: BadgeCheck },
+  { title: "Roblox", desc: "Growagarden , 99 Night in Forest , Steal a Brainrot.", icon: Gamepad2 },
 ]
 
 export function WhyUsRotator() {
