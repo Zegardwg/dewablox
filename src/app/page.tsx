@@ -19,7 +19,7 @@ export default function Page() {
     },
     {
       label: "Pusat Jual Beli Roblox",
-      href: "https://chat.whatsapp.com/EZuuaaeWcQEIQ3Bn8tPRI0?mode=ems_copy_t", // TODO: ganti dengan link Grup Jual Beli Anda
+      href: "https://chat.whatsapp.com/DGyySVRRBR141A0seP9tS7?mode=ems_copy_t", // TODO: ganti dengan link Grup Jual Beli Anda
       icon: "ShoppingCart",
       description: "Jual Beli Aman & Nyaman Roblox ",
     },
