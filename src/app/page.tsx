@@ -19,7 +19,7 @@ export default function Page() {
     },
     {
       label: "Pusat Jual Beli Roblox",
-      href: "https://chat.whatsapp.com/L0TAiLmUaSg35kAIJVhgrR?mode=ems_copy_t", // TODO: ganti dengan link Grup Jual Beli Anda
+      href: "https://chat.whatsapp.com/EZuuaaeWcQEIQ3Bn8tPRI0?mode=ems_copy_t", // TODO: ganti dengan link Grup Jual Beli Anda
       icon: "ShoppingCart",
       description: "Jual Beli Aman & Nyaman Roblox ",
     },
@@ -31,7 +31,7 @@ export default function Page() {
     },
     {
       label: "Info Harga Miring",
-      href: "#", // TODO: ganti dengan link Saluran WhatsApp Dewablox
+      href: "https://whatsapp.com/channel/0029Vb6SQb2LY6dABuQ3xR1Z", // TODO: ganti dengan link Saluran WhatsApp Dewablox
       icon: "Megaphone",
       description: "Join Channel Promo Spesial!",
     },
