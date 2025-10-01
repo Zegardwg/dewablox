@@ -25,7 +25,7 @@ export function ActionDock() {
           </motion.a>
 
           <motion.a
-            href="https://chat.whatsapp.com/DGyySVRRBR141A0seP9tS7?mode=ems_copy_t"
+            href="https://chat.whatsapp.com/LfyQ6YyoI0n3GR4Bibvpu1?mode=ems_copy_t"
             target="_blank"
             rel="noreferrer noopener"
             whileTap={{ scale: 0.97 }}
